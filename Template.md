@@ -1,6 +1,6 @@
-- 昵称：   
-- GitHub 用户名：   
-- 微信： 
-- Aleo 钱包地址：  (不明白的可以学完基础知识后再填)  
-- 技术栈：  
+- 昵称：   tom
+- GitHub 用户名：houseGit   
+- 微信： 18683572712
+- Aleo 钱包地址： aleo1ptzhfmk768w0jdsqf7lf8mpd9pdzzz0wdp3k6589eggt44ac9gfqjmyfpc 
+- 技术栈：  rust
 - 自我介绍：   
